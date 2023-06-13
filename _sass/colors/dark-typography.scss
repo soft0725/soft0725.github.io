@@ -11,7 +11,7 @@
   /* Common color */
   --text-color: rgb(175, 176, 177);
   --text-muted-color: rgb(107, 116, 124);
-  --heading-color: #cccccc;
+  --heading-color: #blue;
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: rgb(117, 117, 117);
   --link-color: rgb(138, 180, 248);
@@ -34,15 +34,13 @@
   );
 
   /* Sidebar */
-
-  --sidebar-bg: linear-gradient(#E8CBC0, #636FA4); 
-  // --sidebar-bg: radial-gradient(circle, #0f0c29 3%, #24243e 100%); 
-  --sidebar-muted-color: #6d6c6b;
-  --sidebar-active-color: #636FA4;
+  --sidebar-bg: linear-gradient(#E8CBC0, #636FA4);  // 배경색
+  --sidebar-muted-color: #6d6b6c; // 아님
+  --sidebar-active-color: #636FA4; // 클릭했을 때 컬러
   --sidebar-hover-bg: rgba(233, 244, 241, 0.803);
-  --sidebar-btn-bg: rgba(245, 241, 241, 0.984);
-  --sidebar-btn-color: #636FA4;
-  --avatar-border-color: rgb(206, 206, 206, 0.9);
+  --sidebar-btn-bg: rgba(245, 241, 241, 0.984); // 아래쪽 아이콘 채우는 색
+  --sidebar-btn-color: #000000; // 아래쪽 아이콘 컬러
+  --avatar-border-color: white; // 아이콘 두르는 색
 
   /* Topbar */
   --topbar-bg: rgb(27, 27, 30, 0.64);
@@ -54,7 +52,7 @@
   /* Home page */
   --post-list-text-color: rgb(175, 176, 177);
   --btn-patinator-text-color: var(--text-color);
-  --btn-paginator-hover-color: rgb(64, 65, 66);
+  --btn-paginator-hover-color: rgb(66, 64, 65);
   --btn-paginator-border-color: var(--btn-border-color);
   --btn-text-color: var(--text-color);
 
