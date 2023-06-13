@@ -741,6 +741,8 @@ $btn-mb: 0.5rem;
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
+    word-spacing: 1px;
+    margin: 0.5rem 1.5rem 0.5rem 1.5rem;
 
     img {
       transition: transform 0.5s;
@@ -754,35 +756,37 @@ $btn-mb: 0.5rem;
   .profile-wrapper {
     @include mt-mb(2.5rem);
     @extend %clickable-transition;
-
-    padding-left: 2.5rem;
+    
+    padding-left: 2.7rem;
     padding-right: 1.25rem;
     width: 100%;
   }
 
+  /* 타이틀에 대한 색상 크기 등을 변경할 수 있습니다. */
   .site-title {
-    font-weight: 900;
-    font-size: 1.75rem;
-    line-height: 1.2;
-    letter-spacing: 0.25px;
-    color: rgba(134, 133, 133, 0.99);
-    margin-top: 1.25rem;
-    margin-bottom: 0.5rem;
-
     a {
       @extend %clickable-transition;
-      @extend %sidebar-link-hover;
+
+      word-spacing: 1px;
+      margin: 0.5rem 1.5rem 0.5rem 1.9rem;
+      font-weight: 900;
+      font-size: 1.5rem;
+      letter-spacing: 0.5px;
+      color: rgba(254, 254, 254, 89%);
     }
   }
 
+  /* 서브 타이틀에 대한 색상 크기 등을 변경할 수 있습니다. */
   .site-subtitle {
     font-size: 95%;
+    /*
     color: var(--sidebar-muted-color);
-    margin-top: 0.25rem;
+    */
+    color: rgba(254, 254, 254, 99%);
+    line-height: 1.2rem;
     word-spacing: 1px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
+    margin: 0.5rem 1.5rem 0.5rem 1.9rem;
+    min-height: 3rem; // avoid vertical shifting in multi-line words
     user-select: none;
   }
 
