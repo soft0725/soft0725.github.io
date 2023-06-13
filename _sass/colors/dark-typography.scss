@@ -34,12 +34,14 @@
   );
 
   /* Sidebar */
-  --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
+
+  --sidebar-bg: linear-gradient(#E8CBC0, #636FA4); 
+  // --sidebar-bg: radial-gradient(circle, #0f0c29 3%, #24243e 100%); 
   --sidebar-muted-color: #6d6c6b;
-  --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: rgb(54, 54, 54, 0.33);
-  --sidebar-btn-bg: rgb(84, 83, 83, 0.3);
-  --sidebar-btn-color: #787878;
+  --sidebar-active-color: #636FA4;
+  --sidebar-hover-bg: rgba(233, 244, 241, 0.803);
+  --sidebar-btn-bg: rgba(245, 241, 241, 0.984);
+  --sidebar-btn-color: #636FA4;
   --avatar-border-color: rgb(206, 206, 206, 0.9);
 
   /* Topbar */

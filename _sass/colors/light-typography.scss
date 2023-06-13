@@ -35,14 +35,16 @@
     rgba(250, 250, 250, 0) 100%
   );
 
-  /* Sidebar */
-  --sidebar-bg: #f6f8fa;
-  --sidebar-muted-color: #a2a19f;
-  --sidebar-active-color: #1d1d1d;
-  --sidebar-hover-bg: rgb(227, 227, 227, 0.64);
-  --sidebar-btn-bg: white;
-  --sidebar-btn-color: #8e8e8e;
-  --avatar-border-color: white;
+ /* Sidebar */
+
+ --sidebar-bg: linear-gradient(#E8CBC0, #636FA4); 
+ // --sidebar-bg: radial-gradient(circle, #0f0c29 3%, #24243e 100%); 
+ --sidebar-muted-color: #6d6c6b;
+ --sidebar-active-color: #636FA4;
+ --sidebar-hover-bg: rgba(233, 244, 241, 0.803);
+ --sidebar-btn-bg: rgba(245, 241, 241, 0.984);
+ --sidebar-btn-color: #636FA4;
+ --avatar-border-color: rgb(206, 206, 206, 0.9);
 
   /* Topbar */
   --topbar-bg: rgb(255, 255, 255, 0.7);
