@@ -13,8 +13,8 @@ tabs:
   home: 홈
   categories: 카테고리
   tags: 태그
-  archives: 아카이브
-  about: 정보
+  archives: 달려온 길
+  about: 저를 소개합니다
 
 # the text displayed in the search bar & search results
 search:
