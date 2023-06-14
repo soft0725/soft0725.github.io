@@ -4,7 +4,7 @@
 
 @mixin dark-scheme {
   /* Framework color */
-  --main-bg: rgb(34, 34, 37);
+  --main-bg: rgb(27, 27, 30);
   --mask-bg: rgb(68, 69, 70);
   --main-border-color: rgb(44, 45, 45);
 
@@ -39,7 +39,7 @@
   --sidebar-active-color: #636FA4; // 클릭했을 때 컬러
   --sidebar-hover-bg: rgba(255, 255, 255, 0.380);
   --sidebar-btn-bg: rgba(245, 241, 241, 0.984); // 아래쪽 아이콘 채우는 색
-  --sidebar-btn-color: #636FA4; // 아래쪽 아이콘 컬러
+  --sidebar-btn-color: #000000; // 아래쪽 아이콘 컬러
   --avatar-border-color: white; // 아이콘 두르는 색
 
   /* Topbar */
