@@ -1,6 +1,5 @@
 ---
 title: 나의 생각과 공부 계획
-author: qudcks7
 date: 2023-06-15 08:38:00 +0900
 categories: [딥러닝 공부]
 tags: [딥러닝 공부]

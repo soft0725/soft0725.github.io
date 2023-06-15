@@ -1,6 +1,5 @@
 ---
 title: 블로그 첫 포스팅
-author: qudcks7
 date: 2023-06-14 00:23:00 +0900
 categories: [그냥_]
 tags: [그냥_]
