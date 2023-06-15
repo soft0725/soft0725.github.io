@@ -45,7 +45,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-google-site-verification: content="N3yNC4l8mLfIf9SN0r5qdSkz2frbDrnydlnY1jL6QZM
+google-site-verification: # google
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
