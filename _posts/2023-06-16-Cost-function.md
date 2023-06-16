@@ -4,6 +4,7 @@ date: 2023-06-16 10:37:00 +0900
 categories: [딥러닝 공부, 모두를 위한 딥러닝 1]
 tags: [cost function]
 ---
+
 ## Cost function에 대해서 알아보자 
 
 Cost function 데이터에 적합한 가설을 세우기 위해서 필요하다. 
