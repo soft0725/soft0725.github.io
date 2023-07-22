@@ -1,6 +1,6 @@
 ---
 title: 모딥 시즌 1 - ML lec 01 
-categories: [DeepLearning]
+categories: [DeepLearning, 모두를 위한 딥러닝 시즌 1]
 tags: [모두를 위한 딥러닝 시즌 1]
 ---
 
