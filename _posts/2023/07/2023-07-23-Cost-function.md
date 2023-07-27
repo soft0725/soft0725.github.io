@@ -1,7 +1,7 @@
 ---
 title: Cost function
 date: '2023-07-23 16:42:00 +0900'
-categories: [DeepLearning, 원리]
+categories: [DeepLearning, 정리 & 구현]
 tags: [구현]
 math: True
 ---
