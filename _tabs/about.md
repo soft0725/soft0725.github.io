@@ -17,7 +17,7 @@ title: 안녕하세요! 김병찬입니다.
         <span><b>전화번호</b> : <a>010-2114-6076</a></span><br>
         <span><b>Github</b> : <a href="https://github.com/soft0725">soft0725</a></span><br>
         <span><b>Blog</b> : <a href="https://soft0725.github.io/">https://soft0725.github.io/</a></span><br>
-        <span><b>Email</b> : <a>byungchan@gmail.com</a></span><br>
+        <span><b>Email</b> : <a>byungchan0725@gmail.com</a></span><br>
         <span><b>School</b> : <a>부산소프트웨어마이스터고등학교 임베디드과 재학 중(2022.03 ~ 2024.02)</a>
         </span><br>
     </div>
