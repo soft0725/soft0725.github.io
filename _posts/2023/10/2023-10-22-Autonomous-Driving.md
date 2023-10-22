@@ -4,7 +4,7 @@ date: '2023-10-22 22:12:00 +0900'
 categories: [Autonomous Driving]
 tags: [Autonomous Driving]
 image: 
-    path: ./assets/img/autonomous driving/autonomous driving.png
+    path: assets/img/autonomous driving/autonomous driving.png
 ---
 
 자율주행은 사람의 개입없이 스스로 주행하는 것을 말한다.
@@ -27,7 +27,7 @@ image:
 - level 5
     - 영화에 나오는 차량이라고 생각하면 된다.
 
-출처 : [자율주행 기술의 성장](http://niceq.xehub.net/201805-technology/Tech-Issue-%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%EA%B8%B0%EC%88%A0%EC%9D%98-%EC%84%B1%EC%9E%A5-%EB%8B%A8%EA%B3%84%EC%99%80-3%EA%B0%80%EC%A7%80-%EC%A0%81%EC%9A%A9-%EC%82%AC%EB%A1%80%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%EA%B8%B0%EC%88%A0%EC%9D%98-%ED%98%84%EC%9E%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AF%B8%EB%9E%98)
+출처 : `Tech Issue - 자율주행 기술의 성장 단계와 3가지 적용 사례_자율주행 기술의 현재 그리고 미래`
 
 
 ### 자율주행 보조 시스템의 종류
