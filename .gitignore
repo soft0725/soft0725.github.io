@@ -19,3 +19,14 @@ package-lock.json
 .vscode
 
 # Misc
+
+# # # 
+.browserslistrc
+.commitlintrc.json
+.editorconfig
+.gitmodules
+.nojekyll
+.gitmodules
+.prettierrc
+.stylelintrc.json
+.versionrc.json
