@@ -4,7 +4,7 @@ date: '2023-10-22 22:12:00 +0900'
 categories: [Autonomous Driving]
 tags: [Autonomous Driving]
 image: 
-    path: /assets/img/autonomous_driving/autonomous_sdriving.png
+    path: /assets/img/autonomous_driving/autonomous_driving.png
 ---
 
 자율주행은 사람의 개입없이 스스로 주행하는 것을 말한다.

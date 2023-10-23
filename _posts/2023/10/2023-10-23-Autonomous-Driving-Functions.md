@@ -4,7 +4,7 @@ date: '2023-10-23 12:16:00 +0900'
 categories: [Autonomous Driving]
 tags: [Autonomous Driving]
 image: 
-    path: /assets/img/autonomous_driving/autonomous_sdriving_functions.png
+    path: /assets/img/autonomous_driving/autonomous_driving_functions.png
 ---
 
 
