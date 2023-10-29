@@ -1,7 +1,7 @@
 ---
 title: Pytroch 기초 
 date: '2023-08-23 19:02:00 +0900'
-categories: [PyTorch]
+categories: [2. Machine Learning & DeepLearning, 2 - 2 Pytorch 튜토리얼]
 tags: [PyTorch]
 math: true
 ---

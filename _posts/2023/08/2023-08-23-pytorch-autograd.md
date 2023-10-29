@@ -1,7 +1,7 @@
 ---
 title: Pytroch Autograd
 date: '2023-08-23 23:11:00 +0900'
-categories: [PyTorch]
+categories: [2. Machine Learning & DeepLearning, 2 - 2 Pytorch 튜토리얼]
 tags: [PyTorch]
 math: true
 ---
