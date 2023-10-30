@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: Byungchan # the main title
 
-tagline: 자율주행을 공부하고 있어요. # it will display as the sub-title
+tagline: SLAM 공부 중. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
