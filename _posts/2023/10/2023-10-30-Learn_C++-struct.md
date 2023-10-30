@@ -1,5 +1,5 @@
 ---
-title: C++ - Struct!
+title: C++ - Struct
 date: '2023-10-30 18:24:00 +0900'
 categories: [1. Software, 1 - 1 C++]
 tags: [C++, Programming]
